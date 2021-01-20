@@ -1,6 +1,6 @@
 {
   "name": "ui.jaranda.kr",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A design system package for Jaranda Angular projects.",
   "main": "index.js",
   "scripts": {
