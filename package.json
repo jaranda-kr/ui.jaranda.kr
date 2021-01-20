@@ -1,0 +1,24 @@
+{
+  "name": "ui.jaranda.kr",
+  "version": "1.0.0",
+  "description": "A design system package for Jaranda Angular projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaranda-kr/ui.jaranda.kr.git"
+  },
+  "keywords": [
+    "design-system",
+    "angular",
+    "jaranda"
+  ],
+  "author": "andyleeboo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaranda-kr/ui.jaranda.kr/issues"
+  },
+  "homepage": "https://github.com/jaranda-kr/ui.jaranda.kr#readme"
+}
